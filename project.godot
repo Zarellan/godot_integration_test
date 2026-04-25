@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="integrate_test"
+config/name="integrate_test2"
 run/main_scene="uid://dbho2gwomp3eg"
 config/features=PackedStringArray("4.6", "Mobile")
 config/icon="res://icon.svg"
